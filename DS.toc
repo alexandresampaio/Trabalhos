@@ -1,1 +1,4 @@
 \select@language {brazilian}
+\contentsline {chapter}{\numberline {1}GOVERNAN\IeC {\c C}A DE TI}{4}{chapter.1}
+\contentsline {section}{\numberline {1.1}Requisitos de neg\IeC {\'o}cio para aparelhar o televendas}{4}{section.1.1}
+\contentsline {section}{\numberline {1.2}Objetivos de Neg\IeC {\'o}cio}{4}{section.1.2}
